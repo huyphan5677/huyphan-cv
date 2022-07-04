@@ -1,0 +1,204 @@
+# Page settings
+
+baseURL = "https://huyphan5677.github.io/huyphan-cv/"
+languageCode = "en"
+title = "HuyPhan's CV"
+theme = "hugo-devresume-theme"
+publishDir = "docs"
+
+
+
+
+
+[params]
+    author = "Huyphan"
+    description = "Huyphan's CV"
+
+
+    primaryColor = "#54B689"
+    textPrimaryColor = "#292929"
+
+
+
+
+    [params.profile]
+        enable = true
+        name = "Phan Minh Huy"
+        tagline = "Data Scientist"
+        avatar = "Asset 1.png"
+
+
+
+
+
+
+
+    [params.contact]
+        enable = true
+        location = "District 10, HCMC"
+
+        [[params.contact.list]]
+        icon = "fas fa-phone-square"
+        url = "tel:#"
+        text = "0356 046 970"
+        [[params.contact.list]]
+        icon = "fas fa-envelope-square"
+        url = "mailto:#"
+        text = "huyphan5677@gmail.com"
+
+
+
+
+
+
+
+
+    [params.skills]
+        enable = true
+
+        [[params.skills.list]]
+        title = "Technical"
+        [[params.skills.list.items]]
+        details = "Coding skills: Python, R, MySQL"
+        [[params.skills.list.items]]
+        details = "Statistics softwares: Alteryx, SPSS"
+        [[params.skills.list.items]]
+        details = "Machine learning algorithms"
+        [[params.skills.list.items]]
+        details = "ETL data with Pyspark"
+
+        [[params.skills.list]]
+        title = "Professional"
+        [[params.skills.list.items]]
+        details = "TOEIC test: 665/990"
+        [[params.skills.list.items]]
+        details = "Problem-solving"
+        [[params.skills.list.items]]
+        details = "Willing to listen or to consider new ideas"
+        [[params.skills.list.items]]
+        details = "Hard-working under high pressure"
+
+
+
+
+
+
+
+
+    [params.education]
+        enable = true
+
+        [[params.education.list]]
+        degree = "Master of Data Science"
+        university = "Ho Chi Minh University of Science"
+        dates = "December/2020 - Now"
+
+        [[params.education.list]]
+        degree = "Bachelor of Industrial System Engineering"
+        university = "Ho Chi Minh City University of Technology"
+        dates = "August/2015 - November/2019"
+
+
+
+
+
+
+
+
+
+
+
+
+    [params.interests]
+        enable = true
+
+        [[params.interests.list]]
+        name = "Reading"
+        [[params.interests.list]]
+        name = "Playing Games"
+        [[params.interests.list]]
+        name = "Music"
+        [[params.interests.list]]
+        name = "Travelling"
+
+
+
+
+
+
+
+
+    [params.summary]
+        enable = true
+        text = "Implementing and Consulting Data Analytics Projects that are able to apply my strong knowledge and experience in Data Science, Telecom, Online Marketing, Banking/Finance, and my analytical and problem-solving skills to solve industrial challenges."
+
+
+
+
+
+
+
+
+    [params.experience]
+        enable = true
+
+        [[params.experience.list]]
+        title = "Data Analyst/Data Scientist"
+        company = "CIC Data Jsc | August/2020 – June/2022"
+        details1 = "1. Operations"
+        details2 = "2. Ad-hoc analysis & reporting"
+        details3 = "3. Modeling projects"
+
+        [[params.experience.list.items1]]
+        details1 = "Operating & monitoring Mortgage Leadgen service at telco, ensuring the service is stable and meet all terms"
+        [[params.experience.list.items1]]
+        details1 = "Standardizing Leadgen flow at telcos to adapt to change requires flexibility with automated processes"
+        [[params.experience.list.items1]]
+        details1 = "Key member on helping to evaluate strategic, planning business, forecast demand"
+
+        [[params.experience.list.items2]]
+        details2 = "Developing an automation process to collect, cleanse and provide report to get the state of the business"
+        [[params.experience.list.items2]]
+        details2 = "Providing ad-hoc analysis to get actionable insights and to optimize revenue"
+
+        [[params.experience.list.items3]]
+        details3 = "Being a team member to build models of propensity scores with production performance more than 82% AUC. Responsibilities: data preparation, feature engineering, feature selection, build model, deploy to production and monitoring performance"
+
+
+
+        [[params.experience.list]]
+        title = "Machine Learning Engineer"
+        company = "SIFT AG VN | October/2018 – July/2020"
+        details1 = "1. Training & Workshop"
+        details2 = "2. Project"
+
+        [[params.experience.list.items1]]
+        details1 = "Teaching Assistant for Consultants in specialized training courses using Alteryx designer"
+        [[params.experience.list.items1]]
+        details1 = "Being Assistant in Designing curriculum and building POC demo for Advanced Analytics and Optimization workshop using Alteryx designer and Qlik Sense"
+
+        [[params.experience.list.items2]]
+        details2 = "PCVFC: Forecasting fertilizer prices for products at different areas in the world; forecasting fertilizer demand and forecasting fertilizer price-demand in Vietnam"
+        [[params.experience.list.items2]]
+        details2 = "PNJ: Solve Market Basket Analysis, Customer Clustering and Store Performance problems"
+        [[params.experience.list.items2]]
+        details2 = "DFS: Creating predictive models to forecast sum sales based on both internal and external data"
+
+
+
+
+
+
+    [params.social]
+        enable = true
+
+        [[params.social.list]]
+        icon = "fab fa-linkedin"
+        url = "//linkedin.com/in/huy-phan-270014111/"
+        title = "Huy Phan"
+
+
+
+
+
+
