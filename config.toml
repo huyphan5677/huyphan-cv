@@ -91,12 +91,12 @@ publishDir = "docs"
         [[params.education.list]]
         degree = "Master of Data Science"
         university = "Ho Chi Minh University of Science"
-        dates = "December/2020 - Now"
+        dates = "12/2020 - Now"
 
         [[params.education.list]]
         degree = "Bachelor of Industrial System Engineering"
         university = "Ho Chi Minh City University of Technology"
-        dates = "August/2015 - November/2019"
+        dates = "08/2015 - 11/2019"
 
 
 
@@ -144,7 +144,7 @@ publishDir = "docs"
 
         [[params.experience.list]]
         title = "Data Analyst/Data Scientist"
-        company = "CIC Data Jsc | August/2020 – June/2022"
+        company = "CIC Data Jsc | 08/2020 – 06/2022"
         details1 = "1. Operations"
         details2 = "2. Ad-hoc analysis & reporting"
         details3 = "3. Modeling projects"
@@ -168,7 +168,7 @@ publishDir = "docs"
 
         [[params.experience.list]]
         title = "Machine Learning Engineer"
-        company = "SIFT AG VN | October/2018 – July/2020"
+        company = "SIFT AG VN | 10/2018 – 07/2020"
         details1 = "1. Training & Workshop"
         details2 = "2. Project"
 
@@ -185,6 +185,22 @@ publishDir = "docs"
         details2 = "DFS: Creating predictive models to forecast sum sales based on both internal and external data"
 
 
+[params.information]
+        enable = true
+
+        [[params.information.list]]
+        title = "Ms. Trang Nguyen"
+        [[params.information.list.items]]
+        details = "Former Head of Data"
+        [[params.information.list.items]]
+        details = "Email: nguyentranguf@gmail.com"
+
+        [[params.information.list]]
+        title = "Mr. Trung Bui Quoc"
+        [[params.information.list.items]]
+        details = "Lecturer at Hanoi University of Science"
+        [[params.information.list.items]]
+        details = "Email: trungbq@soict.hust.edu.vn"
 
 
 
