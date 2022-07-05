@@ -2,7 +2,7 @@
 
 baseURL = "https://huyphan5677.github.io/huyphan-cv/"
 languageCode = "en"
-title = "HuyPhan's CV"
+title = "HuyPhan's Résumé"
 theme = "hugo-devresume-theme"
 publishDir = "docs"
 
@@ -12,7 +12,7 @@ publishDir = "docs"
 
 [params]
     author = "Huyphan"
-    description = "Huyphan's CV"
+    description = "Huyphan's Résumé"
 
 
     primaryColor = "#54B689"
