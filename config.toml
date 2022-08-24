@@ -150,25 +150,25 @@ publishDir = "docs"
         details3 = "3. Modeling projects"
 
         [[params.experience.list.items1]]
-        details1 = "Operating & monitoring Mortgage Leadgen service at telco, ensuring the service is stable and meet all terms"
+        details1 = "Operating & monitoring Mortgage Leadgen service at telco, ensuring the service is stable and meet all terms."
         [[params.experience.list.items1]]
-        details1 = "Standardizing Leadgen flow at telcos to adapt to change requires flexibility with automated processes"
+        details1 = "Standardizing Leadgen flow at telcos to adapt to change requires flexibility with automated processes."
         [[params.experience.list.items1]]
-        details1 = "Key member on helping to evaluate strategic, planning business, forecast demand"
+        details1 = "Key member on helping to evaluate strategic, planning business, forecast demand."
 
         [[params.experience.list.items2]]
-        details2 = "Developing an automation process to collect, cleanse and provide report to get the state of the business"
+        details2 = "Developing an automation process to collect, cleanse and provide report to get the state of the business."
         [[params.experience.list.items2]]
-        details2 = "Providing ad-hoc analysis to get actionable insights and to optimize revenue"
+        details2 = "Providing ad-hoc analysis to get actionable insights and to optimize revenue."
 
         [[params.experience.list.items3]]
-        details3 = "Extracting dense communities from Call Center and SMS Center Graphs to valuable features using graphframes, DBScan, KMeans"
+        details3 = "Extracting dense communities from Call Center and SMS Center Graphs to valuable features using graphframes, DBScan, KMeans."
         [[params.experience.list.items3]]
-        details3 = "Building models of propensity scores with production performance 82% and 85% AUC, respectively"
+        details3 = "Building models of propensity scores with production performance 82% and 85% AUC, respectively."
         [[params.experience.list.items3]]
-        details3 = "Building a model to predict the probabilities of LeadGen Filtering problem (used to optimize the revenue/SMS) - The accuracy more than 80%"
+        details3 = "Building a model to predict the probabilities of LeadGen Filtering problem (used to optimize the revenue/SMS) - The accuracy more than 80%."
         [[params.experience.list.items3]]
-        details3 = "Proposing and monitoring the A/B testing plans on models"
+        details3 = "Proposing and monitoring the A/B testing plans on models."
 
 
 
@@ -179,16 +179,16 @@ publishDir = "docs"
         details2 = "2. Project"
 
         [[params.experience.list.items1]]
-        details1 = "Teaching Assistant for Consultants in specialized training courses using Alteryx designer"
+        details1 = "Teaching Assistant for Consultants in specialized training courses using Alteryx Designer."
         [[params.experience.list.items1]]
-        details1 = "Being Assistant in designing curriculum and building POC demo for Advanced Analytics and Optimization workshop using Alteryx Designer and Qlik Sense"
+        details1 = "Being Assistant in designing curriculum and building POC demo for Advanced Analytics and Optimization workshop using Alteryx Designer and Qlik Sense."
 
         [[params.experience.list.items2]]
-        details2 = "PCVFC: Forecasting fertilizer prices for products at different areas in the world; forecasting fertilizer demand and forecasting fertilizer price-demand in Vietnam (Full scope of work in Crisp-DM methodology)"
+        details2 = "PCVFC: Forecasting fertilizer prices for products at different areas in the world; forecasting fertilizer demand and forecasting fertilizer price-demand in Vietnam (Full SOW in Crisp-DM methodology)."
         [[params.experience.list.items2]]
-        details2 = "PNJ: Solve Market Basket Analysis, Store Clustering and Store Performance problems"
+        details2 = "PNJ: Solve Market Basket Analysis, Store Clustering and Store Performance problems."
         [[params.experience.list.items2]]
-        details2 = "DFS: Creating predictive models to forecast sum sales based on both internal and external data. Developing an Automated ML pipeline runs monthly with Alteryx Platform (Full scope of work in Crisp-DM methodology)"
+        details2 = "DFS: Creating predictive models to forecast sum sales based on both internal and external data. Developing an Automated ML pipeline runs monthly with Alteryx Platform (Full SOW in Crisp-DM methodology)."
 
 
 [params.information]
