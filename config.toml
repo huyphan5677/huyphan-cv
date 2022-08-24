@@ -130,7 +130,7 @@ publishDir = "docs"
 
     [params.summary]
         enable = true
-        text = "Implementing and Consulting Data Analytics Projects that are able to apply my strong knowledge and experience in Data Science, Telecom, Online Marketing, Banking/Finance, and my analytical and problem-solving skills to solve industrial challenges."
+        text = "Implementing and Consulting Data Analytics Projects that are able to apply my strong knowledge and experience in Data Science, Telecom, Online Marketing, Banking/Finance, and my analytical as wel as problem-solving skills to solve industrial challenges."
 
 
 
@@ -166,9 +166,9 @@ publishDir = "docs"
         [[params.experience.list.items3]]
         details3 = "Building models of propensity scores with production performance respectively: 82% and 85% AUC"
         [[params.experience.list.items3]]
-        details3 = "Building a model to predict the probabilities of LeadGen Filtering problem (Used to optimize the revenue/SMS): The accuracy more than 80%"
+        details3 = "Building a model to predict the probabilities in LeadGen Filtering problem (Used to optimize the revenue/SMS): The accuracy more than 80%"
         [[params.experience.list.items3]]
-        details3 = "Monitoring and proposing the A/B testing plan of models"
+        details3 = "Proposing and monitoring the A/B testing plans on models"
 
 
 
