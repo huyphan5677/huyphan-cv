@@ -197,7 +197,7 @@ publishDir = "docs"
         [[params.information.list]]
         title = "Ms. Trang Nguyen"
         [[params.information.list.items]]
-        details = "Former Head of Data"
+        details = "Former Head of Data at CIC Data Jsc"
         [[params.information.list.items]]
         details = "Email: nguyentranguf@gmail.com"
 
