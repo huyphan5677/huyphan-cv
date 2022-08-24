@@ -181,7 +181,7 @@ publishDir = "docs"
         [[params.experience.list.items1]]
         details1 = "Teaching Assistant for Consultants in specialized training courses using Alteryx designer"
         [[params.experience.list.items1]]
-        details1 = "Being Assistant in Designing curriculum and building POC demo for Advanced Analytics and Optimization workshop using Alteryx designer and Qlik Sense"
+        details1 = "Being Assistant in designing curriculum and building POC demo for Advanced Analytics and Optimization workshop using Alteryx Designer and Qlik Sense"
 
         [[params.experience.list.items2]]
         details2 = "PCVFC: Forecasting fertilizer prices for products at different areas in the world; forecasting fertilizer demand and forecasting fertilizer price-demand in Vietnam (Full scope of work in Crisp-DM methodology)"
