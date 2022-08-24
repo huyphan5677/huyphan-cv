@@ -164,9 +164,9 @@ publishDir = "docs"
         [[params.experience.list.items3]]
         details3 = "Extracting dense communities from Call Center and SMS Center Graphs to valuable features using graphframes, DBScan, KMeans"
         [[params.experience.list.items3]]
-        details3 = "Building models of propensity scores with production performance respectively: 82% and 85% AUC"
+        details3 = "Building models of propensity scores with production performance 82% and 85% AUC, respectively"
         [[params.experience.list.items3]]
-        details3 = "Building a model to predict the probabilities in LeadGen Filtering problem (Used to optimize the revenue/SMS): The accuracy more than 80%"
+        details3 = "Building a model to predict the probabilities of LeadGen Filtering problem (used to optimize the revenue/SMS) - The accuracy more than 80%"
         [[params.experience.list.items3]]
         details3 = "Proposing and monitoring the A/B testing plans on models"
 
