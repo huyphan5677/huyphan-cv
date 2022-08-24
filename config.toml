@@ -150,7 +150,7 @@ publishDir = "docs"
         details3 = "3. Modeling projects"
 
         [[params.experience.list.items1]]
-        details1 = "Operating & monitoring Mortgage Leadgen service at telco, ensuring the service is stable and meet all terms."
+        details1 = "Operating & monitoring Mortgage Leadgen service at telcos, ensuring the service is stable and meet all terms."
         [[params.experience.list.items1]]
         details1 = "Standardizing Leadgen flow at telcos to adapt to change requires flexibility with automated processes."
         [[params.experience.list.items1]]
