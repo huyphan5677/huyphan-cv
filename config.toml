@@ -25,7 +25,7 @@ publishDir = "docs"
         enable = true
         name = "Phan Minh Huy"
         tagline = "Data Scientist"
-        avatar = "Asset 1.png"
+        avatar = "Asset 2.png"
 
 
 
@@ -199,14 +199,14 @@ publishDir = "docs"
         [[params.information.list.items]]
         details = "Former Head of Data at CIC Data Jsc"
         [[params.information.list.items]]
-        details = "Email: nguyentranguf@gmail.com"
+        details = "nguyentranguf@gmail.com"
 
         [[params.information.list]]
         title = "Mr. Trung Bui Quoc"
         [[params.information.list.items]]
         details = "Lecturer at Hanoi University of Science"
         [[params.information.list.items]]
-        details = "Email: trungbq@soict.hust.edu.vn"
+        details = "trungbq@soict.hust.edu.vn"
 
 
 
