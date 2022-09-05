@@ -92,11 +92,13 @@ publishDir = "docs"
         degree = "Master of Data Science"
         university = "Ho Chi Minh University of Science"
         dates = "12/2020 - Now"
+        
 
         [[params.education.list]]
         degree = "Bachelor of Industrial System Engineering"
         university = "Ho Chi Minh City University of Technology"
         dates = "08/2015 - 11/2019"
+        GPA = "GPA: 8.4/10"
 
 
 
