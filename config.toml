@@ -159,7 +159,9 @@ publishDir = "docs"
         details1 = "Building a model to predict the probabilities of LeadGen Filtering problem (used to optimize the revenue/SMS) - The accuracy more than 80%."
         [[params.experience.list.items1]]
         details1 = "Proposing and monitoring the A/B testing plans on models."
-
+        [[params.experience.list.items1]]
+        details1 = "Using Ortools to solve optimization problems in LeadGen selection."
+        
         [[params.experience.list.items2]]
         details2 = "Developing an automation process to collect, cleanse and provide report to get the state of the business."
         [[params.experience.list.items2]]
