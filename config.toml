@@ -160,7 +160,7 @@ publishDir = "docs"
         [[params.experience.list.items1]]
         details1 = "Proposing and monitoring the A/B testing plans on models."
         [[params.experience.list.items1]]
-        details1 = "Using Ortools to solve optimization problems in LeadGen selection."
+        details1 = "Using Ortools to solve optimization problems in LeadGen selection to maximize revenue and reduce operation costs."
         
         [[params.experience.list.items2]]
         details2 = "Developing an automation process to collect, cleanse and provide report to get the state of the business."
