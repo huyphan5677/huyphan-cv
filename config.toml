@@ -168,9 +168,9 @@ publishDir = "docs"
         details2 = "Providing ad-hoc analysis to get actionable insights and to optimize revenue."
 
         [[params.experience.list.items3]]
-        details3 = "Operating & monitoring Mortgage Leadgen service at telcos, ensuring the service is stable and meet all terms."
+        details3 = "Operating & monitoring Mortgage LeadGen service at telcos, ensuring the service is stable and meet all terms."
         [[params.experience.list.items3]]
-        details3 = "Standardizing Leadgen flow at telcos to adapt to change requires flexibility with automated processes."
+        details3 = "Standardizing LeadGen flow at telcos to adapt to change requires flexibility with automated processes."
         [[params.experience.list.items3]]
         details3 = "Key member on helping to evaluate strategic, planning business, forecast demand."
 
