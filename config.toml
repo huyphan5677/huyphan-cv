@@ -57,7 +57,7 @@ publishDir = "docs"
         enable = true
 
         [[params.skills.list]]
-        title = "Technical"
+        title = "Hard skills"
         [[params.skills.list.items]]
         details = "Coding skills: Python, R, MySQL"
         [[params.skills.list.items]]
@@ -68,7 +68,7 @@ publishDir = "docs"
         details = "ETL data with Pyspark"
 
         [[params.skills.list]]
-        title = "Professional"
+        title = "Soft skills"
         [[params.skills.list.items]]
         details = "TOEIC test: 665/990"
         [[params.skills.list.items]]
@@ -92,13 +92,14 @@ publishDir = "docs"
         degree = "Master of Data Science"
         university = "Ho Chi Minh University of Science"
         dates = "12/2020 - Now"
-        
+        edu_describe = "Knowledge: Machine Learning & Deep Learning algorithms"
 
         [[params.education.list]]
         degree = "Bachelor of Industrial System Engineering"
         university = "Ho Chi Minh City University of Technology"
         dates = "08/2015 - 11/2019"
         GPA = "GPA: 8.4/10"
+        edu_describe = "Knowledge: Supply Chain management and optimization"
 
 
 
