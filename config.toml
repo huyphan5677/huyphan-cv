@@ -35,7 +35,7 @@ publishDir = "docs"
 
     [params.contact]
         enable = true
-        location = "District 10, HCMC"
+        location = "District 4, HCMC"
 
         [[params.contact.list]]
         icon = "fas fa-phone-square"
@@ -59,7 +59,7 @@ publishDir = "docs"
         [[params.skills.list]]
         title = "Hard skills"
         [[params.skills.list.items]]
-        details = "Coding skills: Python, R, MySQL"
+        details = "Coding skills: Python, R, SQL"
         [[params.skills.list.items]]
         details = "Statistics softwares: Alteryx, SPSS"
         [[params.skills.list.items]]
@@ -103,15 +103,6 @@ publishDir = "docs"
 
 
 
-
-
-
-
-
-
-
-
-
     [params.interests]
         enable = true
 
@@ -126,19 +117,9 @@ publishDir = "docs"
 
 
 
-
-
-
-
-
     [params.summary]
         enable = true
         text = "Implementing and Consulting Data Analytics Projects that are able to apply my strong knowledge and experience in Data Science, Telecom, Online Marketing, Banking/Finance, and my analytical as wel as problem-solving skills to solve industrial challenges."
-
-
-
-
-
 
 
 
@@ -146,11 +127,37 @@ publishDir = "docs"
         enable = true
 
         [[params.experience.list]]
+        title = "Data Scientist"
+        company = "Prudential VietNam Assurance | 11/2022 – now"
+        details1 = "1. General Responsibilities"
+        details2 = "2. Cross Sell Project"
+        details3 = "3. Smart Claims Project"
+        details4 = "4. High-Quality Leader Profile Project"
+
+
+        [[params.experience.list.items1]]
+        details1 = "Performing end-to-end data science project tasks, including data cleaning, feature engineering, model development, and performance evaluation aligned with business objectives"
+     
+        [[params.experience.list.items2]]
+        details2 = "Developed and implemented machine learning models to predict potential customers for cross-selling insurance policies."
+        [[params.experience.list.items2]]
+        details2 = "Providing a comprehensive plan including model building, iterative training with new labels, and feature expansion for continuous improvement."
+
+        [[params.experience.list.items3]]
+        details3 = "Utilized CatBoost extensively to predict the probability of claim rejection, automating the decision-making process."
+        [[params.experience.list.items3]]
+        details3 = "Generated interpretable results using model probability predictions and SHAP values, enhancing transparency in the claim approval system."
+
+        [[params.experience.list.items4]]
+        details4 = "Applied a clustering model to identify high-quality leader profiles based on insightful data analysis and built an early prediction model to identify potential leaders among agents."
+
+
+
+        [[params.experience.list]]
         title = "Data Analyst/Data Scientist"
         company = "CIC Data Jsc | 08/2020 – 06/2022"
         details1 = "1. Modeling projects"
-        details2 = "2. Ad-hoc analysis & reporting"
-        details3 = "3. Operations"
+        details2 = "2. Operations"
 
         [[params.experience.list.items1]]
         details1 = "Extracting dense communities from Call Center and SMS Center Graphs to valuable features using graphframes, DBScan, KMeans."
@@ -164,38 +171,22 @@ publishDir = "docs"
         details1 = "Using Ortools to solve optimization problems in LeadGen selection to maximize revenue and reduce operation costs."
         
         [[params.experience.list.items2]]
-        details2 = "Developing an automation process to collect, cleanse and provide report to get the state of the business."
+        details2 = "Operating & monitoring & Standardizing Mortgage LeadGen service at telcos, ensuring the service is stable and meet all terms."
         [[params.experience.list.items2]]
         details2 = "Providing ad-hoc analysis to get actionable insights and to optimize revenue."
-
-        [[params.experience.list.items3]]
-        details3 = "Operating & monitoring Mortgage LeadGen service at telcos, ensuring the service is stable and meet all terms."
-        [[params.experience.list.items3]]
-        details3 = "Standardizing LeadGen flow at telcos to adapt to change requires flexibility with automated processes."
-        [[params.experience.list.items3]]
-        details3 = "Key member on helping to evaluate strategic, planning business, forecast demand."
-
-        
-
 
 
         [[params.experience.list]]
         title = "Machine Learning Engineer"
         company = "SIFT AG VN | 10/2018 – 07/2020"
-        details1 = "1. Training & Workshop"
-        details2 = "2. Project"
+        details1 = "Project"
 
         [[params.experience.list.items1]]
-        details1 = "Teaching Assistant for Consultants in specialized training courses using Alteryx Designer."
+        details1 = "PCVFC: Forecasting fertilizer prices for products at different areas in the world; forecasting fertilizer demand and forecasting fertilizer price-demand in Vietnam (Full SOW in Crisp-DM methodology)."
         [[params.experience.list.items1]]
-        details1 = "Being Assistant in designing curriculum and building POC demo for Advanced Analytics and Optimization workshop using Alteryx Designer and Qlik Sense."
-
-        [[params.experience.list.items2]]
-        details2 = "PCVFC: Forecasting fertilizer prices for products at different areas in the world; forecasting fertilizer demand and forecasting fertilizer price-demand in Vietnam (Full SOW in Crisp-DM methodology)."
-        [[params.experience.list.items2]]
-        details2 = "PNJ: Solve Market Basket Analysis, Store Clustering and Store Performance problems."
-        [[params.experience.list.items2]]
-        details2 = "DFS: Creating predictive models to forecast sum sales based on both internal and external data. Developing an Automated ML pipeline runs monthly with Alteryx Platform (Full SOW in Crisp-DM methodology)."
+        details1 = "PNJ: Solve Market Basket Analysis, Store Clustering and Store Performance problems."
+        [[params.experience.list.items1]]
+        details1 = "DFS: Creating predictive models to forecast sum sales based on both internal and external data. Developing an Automated ML pipeline runs monthly with Alteryx Platform (Full SOW in Crisp-DM methodology)."
 
 
 [params.information]

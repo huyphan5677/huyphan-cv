@@ -36,6 +36,15 @@
                                             {{ end }}
                                         </ul>
                                     </div>
+
+                                    <div class="item-content4">
+                                        <p></p><strong> {{ .details4 }}</strong>
+                                        <ul class="resume-list4">
+                                            {{ range .items4 }}
+                                            <li>{{ with .details4 }}{{ . | markdownify }}{{ end }}</li>
+                                            {{ end }}
+                                        </ul>
+                                    </div>
                                 </div><!--//item-->
                                 {{ end }}
                             </section><!--//work-section-->
