@@ -137,6 +137,8 @@ publishDir = "docs"
 
         [[params.experience.list.items1]]
         details1 = "Performing end-to-end data science project tasks, including data cleaning, feature engineering, model development, and performance evaluation aligned with business objectives"
+        [[params.experience.list.items1]]
+        details1 = "Conducted training sessions for teams and departments to leverage advanced technologies, fostering a culture of continuous learning within the department: Machine Learning, PySpark, and efficient utilization of chat GPT/Bing Chat."
      
         [[params.experience.list.items2]]
         details2 = "Developed and implemented machine learning models to predict potential customers for cross-selling insurance policies."
