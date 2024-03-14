@@ -130,29 +130,24 @@ publishDir = "docs"
         title = "Data Scientist"
         company = "Prudential VietNam Assurance | 11/2022 – now"
         details1 = "1. General Responsibilities"
-        details2 = "2. Cross Sell Project"
-        details3 = "3. Smart Claims Project"
-        details4 = "4. High-Quality Leader Profile Project"
+        details2 = "2. Modeling projects"
 
 
         [[params.experience.list.items1]]
         details1 = "Performing end-to-end data science project tasks, including data cleaning, feature engineering, model development, and performance evaluation aligned with business objectives"
         [[params.experience.list.items1]]
         details1 = "Conducted training sessions for teams and departments to leverage advanced technologies, fostering a culture of continuous learning within the department: Machine Learning, PySpark, and efficient utilization of chat GPT/Bing Chat."
-     
+        [[params.experience.list.items1]]
+        details1 = "Providing a comprehensive plan including model building, iterative training with new labels, and feature expansion for continuous improvement."
+
         [[params.experience.list.items2]]
-        details2 = "Developed and implemented machine learning models to predict potential customers for cross-selling insurance policies."
+        details2 = "Predicting potential customers for cross-selling insurance policies."
         [[params.experience.list.items2]]
-        details2 = "Providing a comprehensive plan including model building, iterative training with new labels, and feature expansion for continuous improvement."
-
-        [[params.experience.list.items3]]
-        details3 = "Utilized CatBoost extensively to predict the probability of claim rejection, automating the decision-making process."
-        [[params.experience.list.items3]]
-        details3 = "Generated interpretable results using model probability predictions and SHAP values, enhancing transparency in the claim approval system."
-
-        [[params.experience.list.items4]]
-        details4 = "Applied a clustering model to identify high-quality leader profiles based on insightful data analysis and built an early prediction model to identify potential leaders among agents."
-
+        details2 = "Predicting the probability of claim rejection, automating the decision-making process."
+        [[params.experience.list.items2]]
+        details2 = "Applying a clustering model to identify high-quality leader profiles based on insightful data analysis and building an early prediction model to identify potential leaders among agents."
+        [[params.experience.list.items2]]
+        details2 = "Building a model to predict lapsing customers, determining whether they will pay insurance premiums (churn prediction)."
 
 
         [[params.experience.list]]
@@ -166,7 +161,7 @@ publishDir = "docs"
         [[params.experience.list.items1]]
         details1 = "Building models of propensity scores with production performance 64% and 70% Gini, respectively."
         [[params.experience.list.items1]]
-        details1 = "Building a model to predict the probabilities of LeadGen Filtering problem (used to optimize the revenue/SMS) - The accuracy more than 80%."
+        details1 = "Building a model to predict the probabilities of LeadGen Filtering problem (used to optimize the revenue/SMS)."
         [[params.experience.list.items1]]
         details1 = "Proposing and monitoring the A/B testing plans on models."
         [[params.experience.list.items1]]
