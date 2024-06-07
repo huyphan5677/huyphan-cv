@@ -103,23 +103,10 @@ publishDir = "docs"
 
 
 
-    [params.interests]
-        enable = true
-
-        [[params.interests.list]]
-        name = "Reading"
-        [[params.interests.list]]
-        name = "Playing Games"
-        [[params.interests.list]]
-        name = "Music"
-        [[params.interests.list]]
-        name = "Travelling"
-
-
 
     [params.summary]
         enable = true
-        text = "Implementing and Consulting Data Analytics Projects that are able to apply my strong knowledge and experience in Data Science, Telecom, Online Marketing, Banking/Finance, and my analytical as wel as problem-solving skills to solve industrial challenges."
+        text = "I am a Data Scientist committed to using detailed analysis and creative approaches to solve problems across various industries. My approach blends advanced data analytics and machine learning to streamline workflows and uncover valuable insights. With these techniques, I effectively drive improvements and strategic changes in complex business environments."
 
 
 
