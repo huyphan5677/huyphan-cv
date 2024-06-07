@@ -134,11 +134,9 @@ publishDir = "docs"
 
 
         [[params.experience.list.items1]]
-        details1 = "Performing end-to-end data science project tasks, including data cleaning, feature engineering, model development, and performance evaluation aligned with business objectives"
+        details1 = "Performing end-to-end data science project tasks, including data cleaning, feature engineering, model development, and performance evaluation aligned with business objectives."
         [[params.experience.list.items1]]
-        details1 = "Conducted training sessions for teams and departments to leverage advanced technologies, fostering a culture of continuous learning within the department: Machine Learning, PySpark, and efficient utilization of chat GPT/Bing Chat."
-        [[params.experience.list.items1]]
-        details1 = "Providing a comprehensive plan including model building, iterative training with new labels, and feature expansion for continuous improvement."
+        details1 = "Conducted training sessions for teams and departments to leverage advanced technologies, fostering a culture of continuous learning within the department."
 
         [[params.experience.list.items2]]
         details2 = "Predicting potential customers for cross-selling insurance policies."
@@ -148,6 +146,9 @@ publishDir = "docs"
         details2 = "Applying a clustering model to identify high-quality leader profiles based on insightful data analysis and building an early prediction model to identify potential leaders among agents."
         [[params.experience.list.items2]]
         details2 = "Building a model to predict lapsing customers, determining whether they will pay insurance premiums (churn prediction)."
+        
+        [[params.experience.list.items2]]
+        details2 = "Keywords: Classification problems, Clustering, SHAP analysis, Conformal prediction, Graph analysis."
 
 
         [[params.experience.list]]
@@ -166,6 +167,8 @@ publishDir = "docs"
         details1 = "Proposing and monitoring the A/B testing plans on models."
         [[params.experience.list.items1]]
         details1 = "Using Ortools to solve optimization problems in LeadGen selection to maximize revenue and reduce operation costs."
+        [[params.experience.list.items1]]
+        details1 = "Keywords: Classification problems, Graph analysis, Clustering, ETL & Data mining using Spark."
         
         [[params.experience.list.items2]]
         details2 = "Operating & monitoring & Standardizing Mortgage LeadGen service at telcos, ensuring the service is stable and meet all terms."
@@ -184,6 +187,8 @@ publishDir = "docs"
         details1 = "PNJ: Solve Market Basket Analysis, Store Clustering and Store Performance problems."
         [[params.experience.list.items1]]
         details1 = "DFS: Creating predictive models to forecast sum sales based on both internal and external data. Developing an Automated ML pipeline runs monthly with Alteryx Platform (Full SOW in Crisp-DM methodology)."
+        [[params.experience.list.items1]]
+        details1 = "TimeSeries forecasting, Regression, Market Basket Analysis, Clustering."
 
 
 [params.information]
