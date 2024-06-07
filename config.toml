@@ -175,7 +175,7 @@ publishDir = "docs"
         [[params.experience.list.items1]]
         details1 = "DFS: Creating predictive models to forecast sum sales based on both internal and external data. Developing an Automated ML pipeline runs monthly with Alteryx Platform (Full SOW in Crisp-DM methodology)."
         [[params.experience.list.items1]]
-        details1 = "TimeSeries forecasting, Regression, Market Basket Analysis, Clustering."
+        details1 = "Keywords: TimeSeries forecasting, Regression, Market Basket Analysis, Clustering."
 
 
 [params.information]
