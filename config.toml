@@ -115,7 +115,7 @@ publishDir = "docs"
 
         [[params.experience.list]]
         title = "Data Scientist"
-        company = "Prudential VietNam Assurance | 11/2022 – now"
+        company = "Prudential VietNam Assurance | 11/2022 – 08/2024"
         details1 = "1. General Responsibilities"
         details2 = "2. Modeling projects"
 
